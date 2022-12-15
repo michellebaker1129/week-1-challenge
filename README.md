@@ -10,6 +10,7 @@ HTML
     Added lang attribute
 
     Added meta name, description, key words 
+    Added another meta name veiwport to adjust to different sized screens
         TUTOR QUESTION: are these redundant? 
 
     Edited the <title> to the company name
@@ -37,6 +38,9 @@ THEN I find that the elements follow a logical structure independent of styling 
 WHEN I view the image elements
 THEN I find accessible alt attributes
 WHEN I view the heading attributes
+
+    TUTOR QUESTION: Is the h2 at the footer out of order because there are h3s above it?
+
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
