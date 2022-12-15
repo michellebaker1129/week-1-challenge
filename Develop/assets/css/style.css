@@ -10,6 +10,7 @@ body {
 
 .header {
     padding: 20px;
+        /* These are high accessibility fonts */
     font-family: 'Tahoma', 'Calibri', 'Helvetica', 'Verdana', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -17,6 +18,7 @@ body {
 
 .header h1 {
     display: inline-block;
+        /* Font size changed to relative to help with enlarging text only */
     font-size: 3rem;
 }
 
@@ -28,7 +30,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Verdana, Tahoma, sans-serif, 'Trebuchet MS', sans-serif;
+    font-family: 'Tahoma', 'Calibri', 'Helvetica', 'Verdana', sans-serif, 'Helvetica', sans-serif;
     font-size: 1.25rem;
 }
 
@@ -47,7 +49,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .hero {
@@ -82,7 +84,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Tahoma', 'Calibri', 'Helvetica', 'Verdana', sans-serif;
     background-color: #2589bd;
 }
 
@@ -138,7 +140,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Tahoma', 'Calibri', 'Helvitica', 'Verdana', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -147,7 +149,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Tahoma', 'Calibri', 'Helvitica', 'Verdana', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -156,7 +158,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Tahoma', 'Calibri', 'Helvitica', 'Verdana', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -175,26 +177,26 @@ p {
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 .footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Tahoma', 'Calibri', 'Helvetica', 'Verdana', Arial, sans-serif;
     text-align: center;
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 1.25rem;
 }

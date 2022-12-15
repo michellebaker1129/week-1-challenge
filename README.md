@@ -6,6 +6,7 @@ Accessibility Updates
 
 HTML
 
+    Added DOCTYPE html for screen readers
     Added lang=eng
     Added alt descriptors to important images, alt="" where image is not important
 
