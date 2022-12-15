@@ -9,9 +9,14 @@ HTML
     Added DOCTYPE html for screen readers
     Added lang=eng
 
-    Added meta name and description 
+    Added meta name, description, key words 
+        TUTOR QUESTION: are these redundant? 
+
     Edited the <title> to the company name
     Added alt descriptors to important images, alt="" where image is not important
+
+    Broke up long lines of code to prevent horizontal scrolling
+    Verified that screen readers accept emojis
     
 
 
