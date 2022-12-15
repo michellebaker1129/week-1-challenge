@@ -7,7 +7,7 @@ Accessibility Updates
 HTML
 
     Added DOCTYPE html for screen readers
-    Added lang=eng
+    Added lang attribute
 
     Added meta name, description, key words 
         TUTOR QUESTION: are these redundant? 
