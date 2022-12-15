@@ -11,7 +11,8 @@ HTML
 
     Added meta name, description, key words 
     Added another meta name veiwport to adjust to different sized screens
-        TUTOR QUESTION: are these redundant? 
+        
+            TUTOR QUESTION: are these redundant? 
 
     Edited the <title> to the company name
     Added alt descriptors to important images, alt="" where image is not important
@@ -24,9 +25,13 @@ HTML
 CSS
     Font size rem - relative to 16px to allow zooming in on text without enlarging everything on the page
 
+    Adjusted line height to 1.5 for paragraphs
+
 
     Color Contrast
     Fix HoriSEOn for text readers
+
+            TUTOR QUESTION: How do I approach this?
 
     GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -39,7 +44,7 @@ WHEN I view the image elements
 THEN I find accessible alt attributes
 WHEN I view the heading attributes
 
-    TUTOR QUESTION: Is the h2 at the footer out of order because there are h3s above it?
+            TUTOR QUESTION: Is the h2 at the footer out of order because there are h3s above it?
 
 THEN they fall in sequential order
 WHEN I view the title element
