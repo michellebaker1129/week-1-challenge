@@ -33,6 +33,12 @@ CSS
 
             TUTOR QUESTION: How do I approach this?
 
+    Added @media print for those sensitive to screens
+
+            TUTOR QUESTION: Redundant? 
+
+
+
     GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements

@@ -195,6 +195,23 @@ p {
     font-size: 2.25rem;
 }
 
+/* Used @media print to make printout possible for those sensitive to screens */
+
+@media print {
+    .header {
+      position: static;
+    }
+    nav {
+      display: none;
+    }
+  }
+
+  @media print {
+    a[href^="http"]:not([href*="mywebsite.com"])::after {
+      content: " (" attr(href) ")";
+    }
+  }
+
 .footer {
     padding: 30px;
     clear: both;
