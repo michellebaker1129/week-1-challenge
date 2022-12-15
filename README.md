@@ -30,10 +30,12 @@ CSS
 
     Color Contrast
     Fix HoriSEOn for text readers
+        Added 
 
             TUTOR QUESTION: How do I approach this?
 
     Added @media print for those sensitive to screens
+        credit: https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939
 
             TUTOR QUESTION: Redundant? 
 
