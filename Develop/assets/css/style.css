@@ -19,7 +19,7 @@ body {
 .header h1 {
     display: inline-block;
         /* Font size changed to relative to help with enlarging text only */
-    font-size: 3rem;
+    font-size: 6rem;
 }
 
 .header h1 .seo {
@@ -31,7 +31,7 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Tahoma', 'Calibri', 'Helvetica', 'Verdana', sans-serif, 'Helvetica', sans-serif;
-    font-size: 1.25rem;
+    font-size: 2rem;
 }
 
 .header div ul {
@@ -49,11 +49,11 @@ a {
 }
 
 p {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .hero {
-    height: 50rem;
+    height: 70rem;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -108,16 +108,19 @@ p {
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 2rem;
 }
 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 2rem;
 }
 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 2rem;
 }
 
 .benefit-lead img {
@@ -147,7 +150,6 @@ p {
     background-color: #0072bb;
     color: #ffffff;
     line-height: 1.75;
-    text-align: justify;
 }
 
 .online-reputation-management {
@@ -172,6 +174,7 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
+    min-height:100rem;
 }
 
 .online-reputation-management img {
