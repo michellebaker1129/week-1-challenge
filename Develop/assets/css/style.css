@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #ddcd6;
+    background-color: #d9dcd6;
 }
 
 .header {
@@ -19,7 +19,7 @@ body {
 .header h1 {
     display: inline-block;
         /* Font size changed to relative to help with enlarging text only */
-    font-size: 6rem;
+    font-size: 3rem;
 }
 
 .header h1 .seo {
@@ -174,7 +174,6 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
-    min-height:100rem;
 }
 
 .online-reputation-management img {
