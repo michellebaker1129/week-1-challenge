@@ -5,12 +5,12 @@
 }
 
 body {
-    background-color: #ddcd69;
+    background-color: #ddcd6;
 }
 
 .header {
     padding: 20px;
-        /* These are high accessibility fonts */
+        /* chenged to higher accessibility fonts */
     font-family: 'Tahoma', 'Calibri', 'Helvetica', 'Verdana', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -86,6 +86,7 @@ p {
     height: 100%;
     font-family: 'Tahoma', 'Calibri', 'Helvetica', 'Verdana', sans-serif;
     background-color: #2589bd;
+      /* line-height enlarged for better visibility */
     line-height: 1.75;
 }
 
@@ -141,10 +142,11 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+      /*calibri needed '' */
     font-family: 'Tahoma', 'Calibri', 'Helvitica', 'Verdana', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    line-height: 1.5;
+    line-height: 1.75;
     text-align: justify;
 }
 
@@ -155,7 +157,7 @@ p {
     font-family: 'Tahoma', 'Calibri', 'Helvitica', 'Verdana', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    line-height: 1.5;
+    line-height: 1.75;
 }
 
 .social-media-marketing {
@@ -165,7 +167,7 @@ p {
     font-family: 'Tahoma', 'Calibri', 'Helvitica', 'Verdana', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    line-height: 1.5;
+    line-height: 1.75;
 }
 
 .search-engine-optimization img {
