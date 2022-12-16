@@ -18,12 +18,13 @@ body {
 
 .header h1 {
     display: inline-block;
-        /* Font size changed to relative to help with enlarging text only */
-    font-size: 3rem;
+        /* enlarged font throughout */
+    font-size: 5rem;
 }
 
+  /* increased color contrast for the visually imared */
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #080808;
 }
 
 .header div {
